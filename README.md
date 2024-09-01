@@ -47,7 +47,7 @@ docker run -d -p 8000:8000 app
 Для запуска автоматических тестов, выполните следующую команду:
 
 ```bash
-pytest test_app.py
+pytest test.py
 
 
 
